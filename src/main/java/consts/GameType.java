@@ -43,4 +43,6 @@ public enum  GameType {
     TYPE_FOUR,
     TYPE_FIVE,
 
+
+    GameType()
 }
